@@ -12,7 +12,7 @@
 
 
 <details>
-<summary><b>Skills</b></summary>
+<summary><b>Software Skills</b></summary>
   <h2 align='center'>Programming Languages</h2>
       <p align="center">
         <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="JavaScript" width="40" height="40"/>⠀
