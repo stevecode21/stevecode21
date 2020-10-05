@@ -29,7 +29,8 @@
       <img src="https://i0.wp.com/www.artit-k.com/wp-content/uploads/2017/07/Cover-Express.js.png?resize=650%2C300" alt="ExpressJS" width="80" height="40"/>⠀
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/JSON_vector_logo.svg/1200px-JSON_vector_logo.svg.png" alt="JSON" width="40" height="40"/>⠀
        <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_graphql_icon_130564.png" alt="GraphQL" width="40" height="40"/>⠀
-       <img src="https://www.univention.com/wp-content/uploads/2020/04/200416-rest-api.jpg" alt="GraphQL" width="100" height="40"/>⠀
+       <img src="https://www.univention.com/wp-content/uploads/2020/04/200416-rest-api.jpg" alt="RestAPI" width="100" height="40"/>⠀
+      <img src="https://cdn.icon-icons.com/icons2/691/PNG/512/google_firebase_icon-icons.com_61475.png" alt="Firebase" width="100" height="40"/>⠀
     </p>
   <h2 align='center'>Frontend web skills</h2>
       <p align="center">
