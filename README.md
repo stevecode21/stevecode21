@@ -11,7 +11,6 @@
 </ul>
 
 
-
 <details>
 <summary><b>Skills</b></summary>
   <h2 align='center'>Programming Languages</h2>
@@ -20,13 +19,16 @@
         <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/typescript_original_logo_icon_146317.png" alt="TypeScript" width="40" height="40"/>⠀
         <img src="https://cdn.icon-icons.com/icons2/195/PNG/256/Java_23404.png" alt="Java" width="40" height="40"/>⠀
       </p>
+  ⠀
+  ⠀
+  ⠀
   <h2 align='center'>Backend skills</h2>
     <p align="center">
       <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_plain_logo_icon_146409.png" alt="NodeJS" width="40" height="40"/>⠀
       <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_nestjs_icon_130355.png" alt="NestJS" width="40" height="40"/>⠀
       <img src="https://i0.wp.com/www.artit-k.com/wp-content/uploads/2017/07/Cover-Express.js.png?resize=650%2C300" alt="ExpressJS" width="80" height="40"/>⠀
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/JSON_vector_logo.svg/1200px-JSON_vector_logo.svg.png" alt="JSON" width="40" height="40"/>⠀
-       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/JSON_vector_logo.svg/1200px-JSON_vector_logo.svg.png" alt="JSON" width="40" height="40"/>⠀
+       <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_graphql_icon_130564.png" alt="GraphQL" width="40" height="40"/>⠀
     </p>
   <h2 align='center'>Frontend web skills</h2>
       <p align="center">
@@ -50,15 +52,23 @@
         <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_flutter_icon_130599.png" alt="Flutter" width="40" height="40"/>⠀
         <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_kotlin_icon_130487.png" alt="Kotlin" width="40" height="40"/>⠀
       </p>
+  <h2 align='center'>Databases</h2>
+    <p align="center">
+       <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png" alt="MySQL" width="40" height="40"/>⠀
+       <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" alt="MongoDB" width="40" height="40"/>⠀
+    </p>
 </details>
 
-<h4 align='center' class='hello'>Find me on</h4>
+<h4 align='center' class='hello'>Feel free to get in touch with me</h4>
 <p align='center'>
   <a href="https://twitter.com/stevecode21" target="_blank"><img align="center" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Twitter_icon-icons.com_66803.png" alt="Steve Twitter" height="40" width="40"/></a>⠀
   <a href="https://www.linkedin.com/in/johanstivenssuarez/" target="_blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2037/PNG/512/in_linked_linkedin_media_social_icon_124259.png" alt="Steve LinkedIn" height="40" width="40" /></a>⠀
   <a href="https://platzi.com/@johanstivensuarez21/" target="_blank"><img align="center" src="https://static.platzi.com/media/blog/unnamed-8089fc33-6322-4bd3-85de-1da032257d4b.png" alt="Steve Platzi" height="40" width="40" /></a>⠀
   <a href="https://bio.torre.co/es/suarezsteve21" target="_blank"><img align="center" src="https://torre-media.s3-us-west-2.amazonaws.com/subtorres/teletrabajo/torre.png" alt="Steve Torre" height="40" width="40" /></a>⠀
 </p>
+
+[![forthebadge](https://forthebadge.com/images/badges/it-works-why.svg)](https://forthebadge.com)
+
 
 <!--
 **stevecode21/stevecode21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
