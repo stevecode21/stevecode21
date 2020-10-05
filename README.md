@@ -1,8 +1,16 @@
-<img align="left" src="https://github.com/stevecode21/stevecode21/blob/master/octocat_steve.png" alt="Steve" height=400px/>
+<img align="left" src="https://github.com/stevecode21/stevecode21/blob/master/octocat_steve.png" alt="Steve" height=400px/>⠀⠀
 
 ### Hi guys, I'm Steve 👋
 
 <h3>Fullstack software developer</h3>
+
+<ul>
+  <li>💬 Ask me about <b>Javascript, TypeScript, NodeJS, MongoDB</b></li>
+  <li>🌱 I’m currently learning <b>Big Data and Blockchain</b></li>
+  <li>👯 I’m looking to collaborate on projects that have a social and eco vision through tech solutions</li>
+</ul>
+
+
 
 <details>
 <summary><b>Skills</b></summary>
