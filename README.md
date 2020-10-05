@@ -1,4 +1,4 @@
-<img align="left" src="https://github.com/stevecode21/stevecode21/blob/master/octocat_steve.png" alt="Steved" height=300px/>
+<img align="left" src="https://github.com/stevecode21/stevecode21/blob/master/octocat_steve.png" alt="Steve" height=400px/>
 
 ### Hi guys, I'm Steve 👋
 
@@ -8,13 +8,24 @@
 <summary><b>Skills</b></summary>
   <h2 align='center'>Programming Languages</h2>
       <p align="center">
-        <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="JavaScript" width="40" height="40"/>
-        <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/typescript_original_logo_icon_146317.png" alt="TypeScript" width="40" height="40"/>
-        <img src="https://cdn.icon-icons.com/icons2/195/PNG/256/Java_23404.png" alt="Java" width="40" height="40"/>
+        <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="JavaScript" width="40" height="40"/>⠀
+        <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/typescript_original_logo_icon_146317.png" alt="TypeScript" width="40" height="40"/>⠀
+        <img src="https://cdn.icon-icons.com/icons2/195/PNG/256/Java_23404.png" alt="Java" width="40" height="40"/>⠀
       </p>
+  
+  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+  
+  
+  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+  
+  
+  
+  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+  
   <h2 align='center'>Frontend web skills</h2>
       <p align="center">
         <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/react_icon_130845.png" alt="React" width="40" height="40"/>⠀
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1024px-Electron_Software_Framework_Logo.svg.png" alt="Electron" width="40" height="40"/>⠀
         <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/redux_original_logo_icon_146365.png" alt="Redux" width="40" height="40"/>⠀
         <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/angular_icon_130993.png" alt="Angular" width="40" height="40"/>⠀
         <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_graphql_icon_130564.png" alt="GraphQL" width="40" height="40"/>⠀
@@ -35,7 +46,7 @@
       </p>
 </details>
 
-<h4 align='center' class='hello'>You can find me on</h4>
+<h4 align='center' class='hello'>Find me on</h4>
 <p align='center'>
   <a href="https://twitter.com/stevecode21" target="_blank"><img align="center" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Twitter_icon-icons.com_66803.png" alt="Steve Twitter" height="40" width="40"/></a>⠀
   <a href="https://www.linkedin.com/in/johanstivenssuarez/" target="_blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2037/PNG/512/in_linked_linkedin_media_social_icon_124259.png" alt="Steve LinkedIn" height="40" width="40" /></a>⠀
