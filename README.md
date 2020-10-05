@@ -66,9 +66,9 @@
   <a href="https://platzi.com/@johanstivensuarez21/" target="_blank"><img align="center" src="https://static.platzi.com/media/blog/unnamed-8089fc33-6322-4bd3-85de-1da032257d4b.png" alt="Steve Platzi" height="40" width="40" /></a>⠀
   <a href="https://bio.torre.co/es/suarezsteve21" target="_blank"><img align="center" src="https://torre-media.s3-us-west-2.amazonaws.com/subtorres/teletrabajo/torre.png" alt="Steve Torre" height="40" width="40" /></a>⠀
 </p>
-
-[![forthebadge](https://forthebadge.com/images/badges/it-works-why.svg)](https://forthebadge.com)
-
+<p align='center'>
+  <a href="https://forthebadge.com" target="_blank"><img align="center" src="https://forthebadge.com/images/badges/gluten-free.svg" alt="Forthebadge"/></a>⠀
+</p>
 
 <!--
 **stevecode21/stevecode21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
