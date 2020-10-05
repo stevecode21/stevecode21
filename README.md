@@ -1,4 +1,4 @@
-<img align="left" src="https://github.com/stevecode21/stevecode21/blob/master/octocat_steve.png" alt="Steve" height=400px/>⠀⠀
+<img align="left" src="https://github.com/stevecode21/stevecode21/blob/master/octocat_steve_nonbackground.png" alt="Steve" height=400px/>⠀⠀
 
 ### Hi guys, I'm Steve 👋
 
