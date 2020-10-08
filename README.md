@@ -69,7 +69,8 @@
   <a href="https://bio.torre.co/es/suarezsteve21" target="_blank"><img align="center" src="https://torre-media.s3-us-west-2.amazonaws.com/subtorres/teletrabajo/torre.png" alt="Steve Torre" height="20" width="20" /></a>⠀
 </p>
 ⠀
-⠀
+
+
 <p align='center'>
   <a href="https://forthebadge.com" target="_blank"><img align="center" src="https://forthebadge.com/images/badges/gluten-free.svg" alt="Forthebadge"/></a>⠀
 </p>
