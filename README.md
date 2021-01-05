@@ -17,7 +17,7 @@
       <p align="center">
         <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="JavaScript" width="40" height="40"/><a/>⠀
         <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/typescript_original_logo_icon_146317.png" alt="TypeScript" width="40" height="40"/><a/>⠀
-        <img src="https://cdn.icon-icons.com/icons2/195/PNG/256/Java_23404.png" alt="Java" width="40" height="40"/>⠀
+        <a href="https://www.java.com/es/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/195/PNG/256/Java_23404.png" alt="Java" width="40" height="40"/><a/>⠀
       </p>
   ⠀
   ⠀
