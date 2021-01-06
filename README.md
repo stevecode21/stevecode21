@@ -30,11 +30,11 @@
       <a href="https://www.json.org/json-es.html" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/JSON_vector_logo.svg/1200px-JSON_vector_logo.svg.png" alt="JSON" width="40" height="40"/><a/>⠀
         <a href="https://graphql.org/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_graphql_icon_130564.png" alt="GraphQL" width="40" height="40"/><a/>⠀
        <a href="https://developer.mozilla.org/es/docs/Glossary/API" target="_blank"><img src="https://www.univention.com/wp-content/uploads/2020/04/200416-rest-api.jpg" alt="RestAPI" width="100" height="40"/><a/>⠀
-      <img src="https://cdn.icon-icons.com/icons2/691/PNG/512/google_firebase_icon-icons.com_61475.png" alt="Firebase" width="50" height="50"/>⠀
+      <a href="https://firebase.google.com/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/691/PNG/512/google_firebase_icon-icons.com_61475.png" alt="Firebase" width="50" height="50"/><a/>⠀
     </p>
   <h2 align='center'>Frontend web skills</h2>
       <p align="center">
-        <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/react_icon_130845.png" alt="React" width="40" height="40"/>⠀
+        <a href="https://es.reactjs.org/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/react_icon_130845.png" alt="React" width="40" height="40"/><a/>⠀
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/1200px-Svelte_Logo.svg.png" alt="Svelte" width="35" height="40"/>⠀
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1024px-Electron_Software_Framework_Logo.svg.png" alt="Electron" width="40" height="40"/>⠀
         <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/redux_original_logo_icon_146365.png" alt="Redux" width="40" height="40"/>⠀
