@@ -42,8 +42,8 @@
         <a href="https://graphql.org/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_graphql_icon_130564.png" alt="GraphQL" width="40" height="40"/><a/>⠀
         <a href="https://www.apollographql.com/" target="_blank"><img src="https://dimitr.im/static/b876b338c35d14291bff2641e50262b6/ff9b8/apollo.png" alt="Apollo" width="40" height="40"/><a/>⠀
         <a href="https://getbootstrap.com/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_logo_icon_146619.png" alt="Bootstrap" width="40" height="40"/><a/>⠀
-        <a href="https://www.w3schools.com/css/ target="_blank"><img src="https://cdn.icon-icons.com/icons2/844/PNG/512/CSS3_icon-icons.com_67069.png" alt="CSS3" width="40" height="40"/><a/>⠀
-        <img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/nextjs_icon_132160.png" alt="NextJS" width="40" height="40"/>⠀
+        <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/844/PNG/512/CSS3_icon-icons.com_67069.png" alt="CSS3" width="40" height="40"/><a/>⠀
+        <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/nextjs_icon_132160.png" alt="NextJS" width="40" height="40"/><a/>⠀
         <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_gatsby_icon_130583.png" alt="GatsbyJS" width="40" height="40"/>⠀
         <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/webpack_original_logo_icon_146300.png" alt="Webpack" width="40" height="40"/>⠀
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Babel_Logo.svg/1200px-Babel_Logo.svg.png" alt="Babel" width="80" height="40"/>
