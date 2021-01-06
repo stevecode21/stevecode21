@@ -40,8 +40,8 @@
         <a href="https://es.redux.js.org/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/redux_original_logo_icon_146365.png" alt="Redux" width="40" height="40"/><a/>⠀
         <a href="https://angular.io/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/angular_icon_130993.png" alt="Angular" width="40" height="40"/><a/>⠀
         <a href="https://graphql.org/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_graphql_icon_130564.png" alt="GraphQL" width="40" height="40"/><a/>⠀
-        <img src="https://dimitr.im/static/b876b338c35d14291bff2641e50262b6/ff9b8/apollo.png" alt="Apollo" width="40" height="40"/>⠀
-        <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_logo_icon_146619.png" alt="Bootstrap" width="40" height="40"/>⠀
+        <a href="https://www.apollographql.com/" target="_blank"><img src="https://dimitr.im/static/b876b338c35d14291bff2641e50262b6/ff9b8/apollo.png" alt="Apollo" width="40" height="40"/><a/>⠀
+        <a href="https://getbootstrap.com/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_logo_icon_146619.png" alt="Bootstrap" width="40" height="40"/><a/>⠀
         <img src="https://cdn.icon-icons.com/icons2/844/PNG/512/CSS3_icon-icons.com_67069.png" alt="CSS3" width="40" height="40"/>⠀
         <img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/nextjs_icon_132160.png" alt="NextJS" width="40" height="40"/>⠀
         <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_gatsby_icon_130583.png" alt="GatsbyJS" width="40" height="40"/>⠀
