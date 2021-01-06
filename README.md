@@ -45,8 +45,8 @@
         <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/844/PNG/512/CSS3_icon-icons.com_67069.png" alt="CSS3" width="40" height="40"/><a/>⠀
         <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/nextjs_icon_132160.png" alt="NextJS" width="40" height="40"/><a/>⠀
         <a href="https://www.gatsbyjs.com/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_gatsby_icon_130583.png" alt="GatsbyJS" width="40" height="40"/><a/>⠀
-        <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/webpack_original_logo_icon_146300.png" alt="Webpack" width="40" height="40"/>⠀
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Babel_Logo.svg/1200px-Babel_Logo.svg.png" alt="Babel" width="80" height="40"/>
+        <a href="https://webpack.js.org/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/webpack_original_logo_icon_146300.png" alt="Webpack" width="40" height="40"/><a/>⠀
+        <a href="https://babeljs.io/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Babel_Logo.svg/1200px-Babel_Logo.svg.png" alt="Babel" width="80" height="40"/><a/>⠀
       </p>
   <h2 align='center'>Frontend mobile skills</h2>
       <p align="center">
