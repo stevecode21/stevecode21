@@ -50,7 +50,7 @@
       </p>
   <h2 align='center'>Frontend mobile skills</h2>
       <p align="center">
-        <img src="https://cdn.icon-icons.com/icons2/2389/PNG/512/react_logo_icon_144942.png" alt="React Native" width="40" height="40"/>⠀
+        <a href="hhttps://reactnative.dev/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2389/PNG/512/react_logo_icon_144942.png" alt="React Native" width="40" height="40"/><a/>⠀
         <img src="https://reactnavigation.org/img/spiro.svg" alt="React Navigation" width="40" height="40"/>⠀
         <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_flutter_icon_130599.png" alt="Flutter" width="40" height="40"/>⠀
         <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_kotlin_icon_130487.png" alt="Kotlin" width="40" height="40"/>⠀
