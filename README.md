@@ -37,7 +37,7 @@
         <a href="https://es.reactjs.org/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/react_icon_130845.png" alt="React" width="40" height="40"/><a/>⠀
         <a href="https://svelte.dev/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/1200px-Svelte_Logo.svg.png" alt="Svelte" width="35" height="40"/><a/>⠀
         <a href="https://www.electronjs.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1024px-Electron_Software_Framework_Logo.svg.png" alt="Electron" width="40" height="40"/><a/>⠀
-        <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/redux_original_logo_icon_146365.png" alt="Redux" width="40" height="40"/>⠀
+        <a href="https://es.redux.js.org/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/redux_original_logo_icon_146365.png" alt="Redux" width="40" height="40"/><a/>⠀
         <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/angular_icon_130993.png" alt="Angular" width="40" height="40"/>⠀
         <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_graphql_icon_130564.png" alt="GraphQL" width="40" height="40"/>⠀
         <img src="https://dimitr.im/static/b876b338c35d14291bff2641e50262b6/ff9b8/apollo.png" alt="Apollo" width="40" height="40"/>⠀
