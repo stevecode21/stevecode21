@@ -53,11 +53,11 @@
         <a href="https://reactnative.dev/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2389/PNG/512/react_logo_icon_144942.png" alt="React Native" width="40" height="40"/><a/>⠀
         <a href="https://reactnavigation.org/" target="_blank"><img src="https://reactnavigation.org/img/spiro.svg" alt="React Navigation" width="40" height="40"/><a/>⠀
         <a href="https://flutter.dev/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_flutter_icon_130599.png" alt="Flutter" width="40" height="40"/><a/>⠀
-        <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_kotlin_icon_130487.png" alt="Kotlin" width="40" height="40"/>⠀
-      </p>
+        <a href="https://kotlinlang.org/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_kotlin_icon_130487.png" alt="Kotlin" width="40" height="40"/>⠀
+      </p><a/>⠀
   <h2 align='center'>Databases</h2>
     <p align="center">
-       <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png" alt="MySQL" width="40" height="40"/>⠀
+       <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png" alt="MySQL" width="40" height="40"/>
        <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" alt="MongoDB" width="40" height="40"/>⠀
     </p>
 </details>
