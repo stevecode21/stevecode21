@@ -58,7 +58,7 @@
   <h2 align='center'>Databases</h2>
     <p align="center">
        <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png" alt="MySQL" width="40" height="40"/><a/>⠀
-       <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" alt="MongoDB" width="40" height="40"/>⠀
+       <a href="https://www.mongodb.com/3" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" alt="MongoDB" width="40" height="40"/><a/>⠀
     </p>
 </details>
 
