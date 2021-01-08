@@ -2,7 +2,7 @@
 
 ### Hi guys, I'm Steve 🤙🏻...
 
-<h3>... and I'm a Fullstack software developer</h3>
+<h3>... a Fullstack software developer</h3>
 
 <ul>
   <li>💬 Ask me about <b>Javascript, TypeScript, NodeJS, MongoDB</b></li>
