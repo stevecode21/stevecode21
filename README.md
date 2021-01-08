@@ -63,7 +63,7 @@
     </p>
 </details>
 
-<h4 align='center' class='hello'>Feel free to get in touch with me</h4>
+<h4 align='center' class='hello'>Feel free to get in touch with me, we can do wonderful projects together!</h4>
 <p align='center'>
   <a href="https://twitter.com/stevecode21" target="_blank"><img align="center" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Twitter_icon-icons.com_66803.png" alt="Steve Twitter" height="20" width="20"/></a>⠀
   <a href="https://www.linkedin.com/in/johanstivenssuarez/" onclick='window.open("https://www.linkedin.com/in/johanstivenssuarez/");return false;'><img align="center" src="https://cdn.icon-icons.com/icons2/2037/PNG/512/in_linked_linkedin_media_social_icon_124259.png" alt="Steve LinkedIn" height="20" width="20" /></a>⠀
