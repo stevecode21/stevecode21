@@ -77,8 +77,7 @@
   <a href="https://forthebadge.com" target="_blank"><img align="center" src="https://forthebadge.com/images/badges/gluten-free.svg" alt="Forthebadge"/></a>⠀
 </p>
 
-<!--
-**stevecode21/stevecode21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
