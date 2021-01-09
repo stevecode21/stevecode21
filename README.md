@@ -6,7 +6,7 @@
 
 <ul>
   <li>💬 Ask me about <b>Javascript, Java, TypeScript, NodeJS, MongoDB, React, Svelte, Angular and more ❤️</b></li>
-  
+  <li>🌱 I’m currently learning <b>Big Data, Blockchain and AI soon!</b></li>
   <li>👯 I’m looking to collaborate on projects that have a social and eco vision through tech solutions</li>
   <li>⚡ Fun fact: I'm a musician 🎸
 </ul>
