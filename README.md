@@ -5,7 +5,8 @@
 <h3>... A Fullstack software developer</h3>
 
 <ul>
-  <li>💬 Ask me about <b>Javascript, Java, TypeScript, NodeJS, MongoDB, React, Svelte, Angular and more ❤️</b></li>
+  <li>💬 Ask me about <b><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" width="80" height="20"/>, Java, TypeScript, NodeJS, MongoDB, React, Svelte, Angular and more ❤️</b></li>
+  https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
   <li>🌱 I’m currently learning <b>Big Data, Blockchain and AI soon!</b></li>
   <li>👯 I’m looking to collaborate on projects that have a social and eco vision through tech solutions</li>
   <li>⚡ Fun fact: I'm a musician 🎸
