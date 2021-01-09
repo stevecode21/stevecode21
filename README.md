@@ -2,7 +2,7 @@
 
 ### Hi guys, I'm Steve 🤙🏻...
 
-<h3>... A Fullstack software developer</h3>
+<h3>Fullstack software developer</h3>
 
 <ul>
   <li>💬 Ask me about: <br><br> <b><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" width="120" height="30"/>, <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" width="90" height="30"/>, <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript" width="120" height="30"/>, <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" width="100" height="30"/>, <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" width="100" height="30"/>, <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" width="95" height="30"/>, <img src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00" alt="Svelte" width="100" height="30"/>, <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" width="100" height="30"/>⠀...and more ❤️</b></li>
