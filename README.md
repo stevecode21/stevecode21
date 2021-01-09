@@ -5,8 +5,8 @@
 <h3>... A Fullstack software developer</h3>
 
 <ul>
-  <li>💬 Ask me about <b>Javascript, TypeScript, NodeJS, MongoDB</b></li>
-  <li>🌱 I’m currently learning <b>Big Data and Blockchain</b></li>
+  <li>💬 Ask me about <b>Javascript, Java, TypeScript, NodeJS, MongoDB, React, Svelte, Angular and more ❤️</b></li>
+  
   <li>👯 I’m looking to collaborate on projects that have a social and eco vision through tech solutions</li>
   <li>⚡ Fun fact: I'm a musician 🎸
 </ul>
