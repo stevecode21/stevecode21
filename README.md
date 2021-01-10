@@ -1,6 +1,6 @@
 <img align="right" src="https://github.com/stevecode21/stevecode21/blob/master/octocat_steve_nonbackground.png" alt="Steve" height=400px/>⠀⠀
 
-<h1 align="center"> Hi guys, I'm Steve 🤙🏻... <h1>
+<h2 align="center"> Hi guys, I'm Steve 🤙🏻... <h2>
 
 <h3 align="center">Fullstack software developer</h3>
 
