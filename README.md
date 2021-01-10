@@ -1,4 +1,4 @@
-<img align="left" src="https://github.com/stevecode21/stevecode21/blob/master/octocat_steve_nonbackground.png" alt="Steve" height=400px/>⠀⠀
+
 
 ### Hi guys, I'm Steve 🤙🏻...
 
@@ -11,7 +11,7 @@
   <li>⚡ Fun fact: I'm a musician 🎸
 </ul>
 
-
+<img align="right" src="https://github.com/stevecode21/stevecode21/blob/master/octocat_steve_nonbackground.png" alt="Steve" height=400px/>⠀⠀
 <details>
 <summary><b>Software Skills</b></summary>
   <h2 align='center'>Programming Languages</h2>
@@ -77,5 +77,4 @@
 <p align='center'>
   <a href="https://forthebadge.com" target="_blank"><img align="center" src="https://forthebadge.com/images/badges/made-with-crayons.svg" alt="Forthebadge"/></a>⠀
 </p>
-
 
