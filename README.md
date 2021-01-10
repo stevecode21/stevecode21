@@ -43,6 +43,7 @@
         <a href="https://graphql.org/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_graphql_icon_130564.png" alt="GraphQL" width="40" height="40"/><a/>⠀
         <a href="https://www.apollographql.com/" target="_blank"><img src="https://dimitr.im/static/b876b338c35d14291bff2641e50262b6/ff9b8/apollo.png" alt="Apollo" width="40" height="40"/><a/>⠀
         <a href="https://getbootstrap.com/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_logo_icon_146619.png" alt="Bootstrap" width="40" height="40"/><a/>⠀
+        <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://www.markusantonwolf.com/media/pages/blog/tailwind-css/265298487-1596675041/tailwind-css-logo.svg" alt="TailwindCSS" width="40" height="40"/><a/>⠀
           https://www.markusantonwolf.com/media/pages/blog/tailwind-css/265298487-1596675041/tailwind-css-logo.svg
         <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/844/PNG/512/CSS3_icon-icons.com_67069.png" alt="CSS3" width="40" height="40"/><a/>⠀
         <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.auth0.com/blog/illustrations/nextjs.png" alt="NextJS" width="45" height="40"/><a/>⠀
